@@ -6,7 +6,7 @@ install.packages("TTR")
 library(tidyverse)
 library(TTR)
 
-#set working directory (adjust this for your own computer)
+#set working directory
 setwd("C:/Users/adaml/Downloads/")
 
 #read dataset into R
